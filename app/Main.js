@@ -17,11 +17,6 @@ const Main = () => {
       id: 2,
     },
     {
-      content: "Dontation",
-      path: "/Donation",
-      id: 3,
-    },
-    {
       content: "Profile",
       path: "/Profile",
       id: 4,
